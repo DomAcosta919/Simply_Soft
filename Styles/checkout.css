@@ -1,0 +1,150 @@
+/*plain background color for unquienest compared to the other pages */
+body {
+    background-color: #CAA382;
+}
+/*I wnated this page to be simple and pleasing, the brand is called "Simply SOft"*/
+.check {
+    position: absolute;
+    max-width: 3000px;
+    display: block;
+    margin: 0 auto;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    font-size: 400%;
+    text-align: center;
+    display: inline-block;
+    height: 710px;
+    width: 710px;
+    padding: 10px 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #e9d0af;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+/*a link to every page so that the customer can revist anything just in case they missed something*/
+/*wnated the links to fill like they belong to the page so they are also part of the asthetics */
+.home-link {
+    position: absolute;
+    top: 3%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 500%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+.venders-link {
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 500%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+.store-link {
+    position: absolute;
+    top: 3%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 500%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+.top {
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*all information that needs to be filled are placed in a fashinonable way*/
+.name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.Phone {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.email {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.questions {
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.dont-worry {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 170%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.info {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+.button {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Styles/store.css">
+    <!--link to the google fonts that allow for use of abrialfatface font.--> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=DM+Serif+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!--the video is on a loop and it fills the screen when you first enter the page. -->
+    <video class="store-video" autoplay loop muted>
+        <source src="./store/Store_videos/store_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+<h1 class="store">Shop</h1>
+<a href="./index.html">
+    <h1 class="home-link">Home</h1>
+</a>
+    <H1 class="about-this-product">About This Product</H1>
+<p class="paragraph1">
+    askjhdkjhSALKDHkashdllkdsjflk;sadf ;lkajslfkjalsdjflkjalksdjlkfjalksdjfkljalksdjfljalsdjlfhaosdhfo<br>
+    askjhdkjhSALKDHkashdldkjfhgakjsdhfkjahsdkjfhkajhsdfhaigshdiufgaisdgfigasikdghfkasgdiogbroiufhosduh<br>
+    askjhdkjhSALKDHkashdllkdsjflk;sadf ;lkajslfkjalsdjflkjalksdjlkfjalksdjfkljalksdjfljalsdjlfhaosdhfo<br>
+</p>
+<!--this is the selction menu with examples or diffrent styles of neck holes--> 
+    <img class="man-in-white" src="./store/store_images/man-in-white.jpg" alt="man-in-white">
+<h1 class="shop-here">Shop Here</h1>
+    <div class="option-buttons-container">
+        <label>
+            <input type="radio" name="option" value="option1" onchange="updateSelection(this.value)">
+            Crew Neck <br>
+            <br>
+            <br>
+            <br>
+        </label>
+        <label>
+            <input type="radio" name="option" value="option2" onchange="updateSelection(this.value)">
+            V-Neck <br>
+            <br>
+            <br>
+            <br>
+        </label>
+        <label>
+            <input type="radio" name="option" value="option2" onchange="updateSelection(this.value)">
+            Wide Neck <br>
+        </label>
+        </div>
+    <img class="v-neck" src="./store/store_images/V-neck.jpg" alt="V-Neck">
+    <img class="crew-neck" src="./store/store_images/crew-neck.jpg" alt="crew-neck">
+    <img class="wide-neck" src="./store/store_images/wide-neck.jpg" alt="wide-neck">
+    <div class="form-row">
+        <!--customers can pick from the list of option for their plain white shirt-->
+        <label class="size">
+            Size:
+            <select name="Size">
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+                <option value="XL">XL</option>
+                <option value="XXL">XXL</option>
+                <option value="XXXL">XXXL</option>
+            </select>
+        </label>
+    </div>
+    <div class="from-row">
+        <label class="sleeve">
+            Sleeve Length:
+            <select name="length_of_sleeve">
+                <option value="Tank">Tank</option>
+                <option value="Short">Short</option>
+                <option value="Medium">Medium</option>
+                <option value="Long">Long</option>
+            </select>
+        </label>
+    </div>
+    <div class="color-picker-container">
+        <label for="colorpicker">Color of Shirt:</label>
+        <input type="color" id="colorpicker" name="colorpicker" onchange="updatecolor(this.value)" >
+        <div id="selectedColor"></div>
+</div>
+<div class="form-row">
+    <label class="quantity">
+        Quantity: 
+        <select name="quantity">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+    </label>
+</div>
+<!--The checkout button is to collect data and give a price on the checkout page. But I could not figure out how to do that-->
+<a href="./Checkout.html">
+    <h2 class="checkout-link">Checkout</h2>
+</a>
+<h2 class="time">Crafting your order may take an additional week.<br> Thank you for your patiences.<br> The best takes time. </h2>
+<h3 class="cost">(Max of 3 per order) All shirts start at $60: <br> 
+    Cost of some additional options: long sleeves $10, colors other than black or white $10</h3>
+<H1 class="craft">Crafted and Customized</H1>
+<p class="paragraph2">
+    askjhdkjhSALKDHkashdllkdsjflk;sadf ;lkajslfkjalsdjflkjalksdjlkfjalksdjfkljalksdjfljalsdjlfhaosdhfo<br>
+    askjhdkjhSALKDHkashdldkjfhgakjsdhfkjahsdkjfhkajhsdfhaigshdiufgaisdgfigasikdghfkasgdiogbroiufhosduh<br>
+    askjhdkjhSALKDHkashdllkdsjflk;sadf ;lkajslfkjalsdjflkjalksdjlkfjalksdjfkljalksdjfljalsdjlfhaosdhfo<br>
+</p> 
+    <img class="Girl-and-tailor" src="./store/store_images/Girl_with_tailor.jpg" alt="Tailor_helping_girl">
+    <h1 class="need">What we need</h1>
+<!--This selection is for those who want something more fitting, so they are given a list of questions for the perfect fit shirt-->
+<div class="form-row">
+    <label class="chest">
+        Chest:
+        <input type="number" name="Chest meassurements">
+    </label>
+</div>
+<div class="form-row">
+    <label class="waist">
+        Waist:
+        <input type="number" name="waist">
+    </label>
+</div>
+<div class="form-row">
+    <label class="hips">
+        Hips:
+        <input type="number" name="hips">
+    </label>
+</div>
+<div class="form-row">
+    <label class="length">
+        Length:
+        <input type="number" name="length">
+    </label>
+</div>
+<div class="form-row">
+    <label class="s-length">
+        Sleeves:
+        <input type="text" name="sleeves" placeholder="Example: Tank,Short,Mid,Long">
+    </label>
+</div>
+<div class="form-row">
+    <label class="neck-type">
+        Neck:
+        <input type="text" name="Neck" placeholder="Example: Crew,V-Neck,wide-neck">
+    </label>
+</div>
+<div class="form-row">
+    <div class="Phone">
+    <label for="phone">Phone:</label>
+    <input 
+    type="text" 
+    id="phone" 
+    maxlength="12" 
+    placeholder="Format: 000-000-0000" 
+    oninput="formatPhone(this)">
+    <!--the script will insert "-" into proper places of the phone number-->
+    <script>
+    function formatPhone(input) {
+        // Remove all non-numeric characters
+        var phoneNumber = input.value.replace(/\D/g, '');
+    
+        // Check if the input is not empty and the length is less than or equal to 10
+        if (phoneNumber.length > 0 && phoneNumber.length <= 10) {
+            // Add dashes at appropriate positions
+            var formattedNumber = phoneNumber.replace(/(\d{3})(\d{3})(\d{4})/, '$1-$2-$3');
+            input.value = formattedNumber;
+        } else {
+            // If input is empty or exceeds the max length, clear the input
+            input.value = '';
+        }
+    }
+    </script>
+    </div>
+</div>
+    <div class="form-row">
+        <label class="email">
+            Email:
+            <input type="email" name="Email">
+        </label>
+    </div>
+    <!-- its a color picker that allows for a better slecetion-->
+    <div class="color-picker">
+        <label for="colorpicker">Color of Shirt:</label>
+        <input type="color" id="colorpicker" name="colorpicker" onchange="updatecolor(this.value)" >
+        <div id="selectedColor"></div>
+</div>
+    <div class="form-row">
+    <label class="info">
+        Other info: <br>
+        <textarea name="message" cols="30" rows="10">Message Us</textarea> 
+    </label>
+    </div>
+    <div class="form-row">
+        <div class="buttons">
+            <button type="submit">send</button>
+        </div>
+        </div>
+    <h1 class="questions">Have Questions: <br> 
+        000-000-0000 <br>
+        tailors@sipmlysoft.com<br>
+        Monday-Friday 8am-6pm (ET)
+    </h1>
+    <h2 class="to-do">
+        How to do meassurements?
+    </h2>
+    <!--Informtion on how to mesaure yourself for best results-->
+    <ul class="how-to">
+        <li>Bust (chest) - Measured at the nipple line (females)</li><br>
+        <li>Chest - Measured under the arms (males)</li><br>
+        <li>Waist - Measured slightly below the navel</li><br>
+        <li>Hips - Measured at the broadest (largest) point(fenales)</li><br>
+        <li>Hips/Seat - Measured approximately 6” below the waist(males)</li><br>
+        <li>Length (neck to waist) - Measured down the spine</li>
+    </ul>
+     <!--button used to go back up on page-->
+    <div class="top">
+        <a href="#top" id="btnScrollToTop" title="Go to top">Back To Top</a>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

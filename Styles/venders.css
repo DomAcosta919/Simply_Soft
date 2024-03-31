@@ -1,0 +1,204 @@
+/*for uniqueness I went with a plain color*/
+body { background-color: antiquewhite;
+}
+/*venders are important so I wanted the page to feel welcoming with a video of the process of reciving and selling their product*/
+.venders-video {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    width: 100%;
+    height: auto;
+    transform: translate(-50%, -50%);
+    display: block;
+    margin: 0;
+}
+/*I used a video as a border for asthic purposes*/
+.flowers {
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    width: 1700px;
+    height: 1700px;
+    transform: translate(-50%, -50%);
+    display: block;
+    margin: 0;
+}
+.home-link {
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 500%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4F6E68;
+}
+.work {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1700%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+/*The form is aimed towards bulk options*/
+.form {
+    position: absolute;
+    max-width: 3000px;
+    display: block;
+    margin: 0 auto;
+    left: 50%;
+    top: 200%;
+    transform: translate(-50%, -50%);
+    font-size: 400%;
+    text-align: center;
+    display: inline-block;
+    height: 710px;
+    width: 1480px;
+    padding: 10px 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #000000;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.s {
+    position: absolute;
+    top: 175%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.m {
+    position: absolute;
+    top: 175%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.l {
+    position: absolute;
+    top: 175%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.xl {
+    position: absolute;
+    top: 175%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.xxl {
+    position: absolute;
+    top: 175%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.name {
+    position: absolute;
+    top: 183%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.Phone {
+    position: absolute;
+    top: 183%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.email {
+    position: absolute;
+    top: 183%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.info {
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.button {
+    position: absolute;
+    top: 212%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.questions {
+    position: absolute;
+    top: 220%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: antiquewhite;
+}
+.top {
+    position: absolute;
+    top: 280%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

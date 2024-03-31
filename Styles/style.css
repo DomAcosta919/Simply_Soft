@@ -1,0 +1,301 @@
+/*This is the fisrt page people are going to see, so i went with vibrant but simple gradient*/ 
+body {
+    background-image: linear-gradient(to bottom, #f5f2eb 0%, 24.900662899017334%, #CAA382 49.80132579803467%, 74.90066289901733%, #4F6E68 100%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 5200px;
+}
+/* this video is to show how wearing a simple shirt can be added into everyday life and the beauty of simplicity*/
+.loop-video {
+    position: absolute;
+    width: 30%;
+    height: auto;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+    left: 13%;
+    top: 10%;
+}
+.heading {
+    position: absolute;
+    top: 25%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 2000%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #CAA382;
+}
+.soft {
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    font-size: 2000%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+.subheading {
+    position: absolute;
+    top: 83%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 240%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #CAA382;
+}
+.word-shop {
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2100%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+/*I did not like that way the colors looked after visiting links so I changed it.*/ 
+.word-shop a:visited {
+    color: #ffffff;
+}
+/*all links are part of the page and should feel like they belong*/ 
+.Checkout {
+    position: absolute;
+    top: 3%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    font-size: 300%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4F6E68;
+}
+.shirt-rack {
+    position: absolute;
+    width: 1860px;
+    height: auto;
+    padding-top: 160%;
+    padding-left: 100%;
+    transform: translate(-50%, -50%);
+}
+.about-us {
+    position: absolute;
+    top: 220%;
+    left: 16.6666667%;
+    transform: translate(-50%, -50%);
+    font-size: 250%;
+    text-align: center;
+    display: inline-block;
+    height: 350px;
+    width: 350px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #f3e6cb;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.our-mission {
+    position: absolute;
+    top: 260%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 250%;
+    text-align: center;
+    display: inline-block;
+    height: 350px;
+    width: 350px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #f3e6cb; 
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.our-partners {
+    position: absolute;
+    top: 300%;
+    left: 83.6666667%;
+    transform: translate(-50%, -50%);
+    font-size: 250%;
+    text-align: center;
+    display: inline-block;
+    height: 350px;
+    width: 350px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #f3e6cb;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p1 {
+    position: absolute;
+    top: 220%;
+    left: 16.6666667%;
+    transform: translate(-50%, -50%);
+    font-size: 150%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.p2 {
+    position: absolute;
+    top: 260%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 150%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.p3 {
+    position: absolute;
+    top: 300%;
+    left: 83.6666667%;
+    transform: translate(-50%, -50%);
+    font-size: 150%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/*I placed the venders link at the bottom so that they can read whit "Simply Soft" is about, they will also be the ones spending the most money*/
+.Venders {
+    position: absolute;
+    top: 333%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1800%;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+}
+.Female-vender {
+    position: absolute;
+    top: 368%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: 60%;
+}
+.Lady-stretching {
+    position: absolute;
+    width: auto;
+    height: 96%;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+    left: 66.8%;
+    top: 476%;
+    transform: translate(-50%, -50%);
+}
+.contact {
+    position: absolute;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+    left: 36%;
+    top: 476%;
+    transform: translate(-50%, -50%);
+    font-size: 400%;
+    text-align: center;
+    display: inline-block;
+    height: 872px;
+    width: 620px;
+    padding: 10px 10px;
+    -webkit-box-shadow: -1px 5px 21px 12px rgba(0,0,0,0.54); 
+    box-shadow: -1px 5px 21px 12px rgba(85, 54, 25, 0.54);
+    background-color: #f3e6cb;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.First-Name {
+    position: absolute;
+    left: 35%;
+    top: 440%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Last-Name {
+    position: absolute;
+    left: 35%;
+    top: 443%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Phone {
+    position: absolute;
+    left: 36.5%;
+    top: 446%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.email {
+    position: absolute;
+    left: 36.5%;
+    top: 449%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.message {
+    position: absolute;
+    left: 36.5%;
+    top: 480%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+}
+.buttons {
+    position: absolute;
+    left: 36.5%;
+    top: 510%;
+    transform: translate(-50%, -50%);
+}
+.back-up {
+    position: absolute;
+    left: 50%;
+    top: 555%;
+    transform: translate(-50%, -50%);
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+

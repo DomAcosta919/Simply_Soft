@@ -1,1 +1,40 @@
 # Simply_Soft
+Hosting link: https://github.com/DomAcosta919/Simply_Soft.git
+
+# link to wire frame
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Simply%20Soft.drawio#R7V1bc6M4Fv41foyLO%2FZjJ5ntntpkZ2rT293zqBjZaBojBuTY7l%2B%2FOgJhLiImibk4cVVX2ggB8jnfueocPDFv1rvPMYr8e%2BrhYGJo3m5i3k4MQ3dci%2F8HI%2Ft0xLA0Jx1ZxcTLZh0GHsgvnA6aWja6IR5OShMZpQEjUXlwQcMQL1hpDMUx3ZanLWlQfmqEVrg28LBAQX30O%2FGYn47ONe0w%2FgWTlS%2Bf7MgzayQnZwOJjzy6LQyZv03Mm5hSln5a725wANSTdEmv%2B1fD2XxhMQ5Zmws2%2Ft33T7%2B%2BPN3vnHD1c43%2BwD%2BMK1230%2Fs8oWCTfeVsuWwvaRDTTehhuI02Ma%2B3PmH4IUILOLvlbOdjPlsH%2FEjnH%2BvLylb6hGOGd4WhbJmfMV1jFu%2F5lJ3kfUayDDS2nh1vFRzwC9Q39Hk2ijK2r%2FKbHyjDP2TEeQGhjBqZvmGPUPiqAdqTcMU%2F0ZD%2FCSiNJoaD1kCX8DGJcpoMSVGrTFHHqFPUsBUUNY2uCCp5WqDow%2B%2FrKNjXiecEfDXXHnniH1fw8YEuWdM0vpjCTMXFX33MH%2FuIEwZLTIAxdM3IGouPhC8Bt713haucGTCesJj%2BxDc0oDEfD2nIT18vSRBUhgosXtKQZbrPsORxdmM4D5wmXCl9Csgq5GNr4nlw8hplAwuODRyfBiyuXgGLUweLOVOJ36wzsOg1sNyR8GcyvGDZdllVmXVauSrBsjojVV2hfwK8I24fY7CePgLgBxh5iTCmYgwLMtJYAf2hKVxRXfOZgsKOgsK62RmJnfHZzLnmlsikOwqjmXtVJantjk6ugk6pJvX1ErmcfzbgBl2vUbwi4RXjJtQE1GrRLlW%2F2Xmpej890g2geJMUVDPcs6z1Izlwx5G9huVGyQb%2B94QmBnUPd0H8606Mm9SLTLgXidkGziKPRCQhi9S644BksxLOV7gHDJJNsqZwyPA6Evck4YJ4xNuEYoFC1tCjkCwNHpM%2BGwsPcRUieExA%2FtmgaeGbRMdMTAE7KmhRjptlIJxNn1sKzC3EdRmQp0CcWUWcVUdc7pCVJLMzO2HUnYrBJdPRyyZCNxUarGfJNOr29ESS%2Bd2nUja2APItjX%2BKr8q%2F6UVUBxJVx6pA0FIYh75FtR5RDS6qpln2NXh0PLyoml2J6h9Ccu5JkhCIXBtDnouw9iqsplMFocJe9CysujavofAb5t87hhgi4KHY%2BOIG2yyTcTZXBA5zW0FGuzMyKuJYCc8kQqFSnCEXcJWI5ABIs2E1iPN%2FKMum%2FBvjCKRiHTEgSCLInIV6ixgjJo5EzLfEXPzS5NVy0iL9ka6ytRDV0hONiQwVIE4uWvbcmVYsoVLDW64CFd1F7Hqzij8hKrK8F1qAP7YStJ1kCbAVTTEgEJIwFLPcZdMEY%2BBCoXJRkkNnsUkYpwCo5hVmMB5iFOenHynjp6elB%2BdP3RJBllWMvA1k%2FLSFj8KVuCto8SS9TKxN%2FAF1HuMoxglnPhLmKgUsjRg%2FgilRTJ8IR8v03aK3mgnRbQV2TWUWt0PszhqxCxBtg13TacDuF75Ifv5P2KI5MDG97bky0TZmJSaaCqtkWea0Z7tUN%2B%2BDG3DdmJfx3nob6GDqT08pZYbhRHh%2F8GmUKuLoPUFet%2FXZ1Cjb3XHAXpkGGRj2hqm%2FFvZGh7AfZbTuvJZSWoeYanbm3qwgDiHXu1IQhm2OVUFY3THzxsfCFU93MjKGNnmu581g056NlcH13dIbTmq0yHeXns9qHNFyKInSoqQl2QFBT0HMmWaVCHnY6CyGASq1lw92QMf6lug3Ho1BPCmCNQjgWlXGDEBQ03WOE9SSfntpE18OdkDQ5r3Tt5uRdpxpUD61gpqTreuQq0hTCE%2FZOkOMD7UKyzR1kM5gNJoeWejReqCTLf8rYUE254GklUzadxws0igWh39TkY3jTn7q5b%2BI3kdKj84nOMudtg5kRhXFviyP1iI2y1NOr0sz9c6pfLv5uZSnZShYZXVX%2FGc2h9FvZtXv67JzPC52zGrbO6pCHVfBDru7LJ759n2JRnbIWh2W5nOjmHqbxXPlm%2BPiV14BK%2BvPtDq7ZpYyHO%2BOXapo%2FENIT57e3lfFqbR%2Fo1Jm3W2Omm%2Ffv3mHdsep2h3VBmzvdqc5oD%2BZovOR2ONaxGjJREXDQeWNk1NVFae7Y9BxqsaUE3nqUseNLeDJ1vVuA55xLLs08tySXqwRCpvcV4u02QPOk5AwggLlYqA%2BMtXv2X67SDrV11fWGP2tr7W5GWWY%2BvrNlA7DVEuv0QV7Kyz7fWjMfLqiIQp%2BO4xWcrKHOXeQuknp9TdmbJ91EaEN1x0lauIdYT%2Byy%2BHzX4Xx213hxO1eHoT86%2F4oHsA12tSWh4fLxJG8rpFvCd3EC%2Fys0s%2FyaQzFK8yenZnF%2BkC5Z5EQ4wAx8oRLK%2BnAXDXXQXxcH9CwnHk1769rit5DR1Ok%2FfPBDrjVnF39wNyyHX3qVuvjNFduyQzptr89s9e%2BQo6i2BNlbfXauEeYABnzJ1UKHarWoDw43aJNtqhk2FMHbktCZYna%2ByxZU0LKUdQz532UJRvcXWea1WEGpbSxO05RN21Nm87K%2FVuqNl%2BnULlTSkW63XGmw2TKVx6aA2f2dHMuStk0KxstuqngU9%2FBuVXXx1mxZlrHUCFasiXrAKV98IXOdqDgwieBd4f2ICzmbcJ4gCKPrn0ak1%2BwGy%2FpKUqTZZ%2B8M1F31ecXPcDNssfEGODxp%2BSEXhm6R7vSxDuUMLlAGgQoSshj3oyf9tdci%2Frm3nBQSaZdWdashgJd2ZRvOl2hwFb5vBBmHuqU0p5yIZVf9hGO01YRtRlr%2B94EaeMCvGQKCyf6nkBXQH%2FRnZhzax1G%2FpuRBobU%2FTwMMfSYAzTi9p8J0tnX%2FB%2Bn8A2EQPYt9CzZ1%2FrhmP%2BD6TG74U4fi7n1h%2BdgDqUtvGziFSg5InzHwSMrGpx2WJHZ0Q6gotrvA6ikTWhrkiTclRI4%2BRQufNHwdcHKEFhRWJe%2BsaLajDxgZREQLKh8AcvgYJlbLcHS3dtOVI48gEXuxvzvgpQxICUvpT3qr3Tnrqhe2wJQOVR8XsAyDrAoKpT6NkKqDCGA5eHi0Y4BIbPB1clMVUog1EmpsP9xw%2BPEMLkgZugYSPXKk54NUD1rkmqTS77k5PkSq7Lxe6Xifz7W13vjmqLgLHlWUxJHmiUuSuNFSsM%2BReJEiZnudIbTFAwXcmy%2BfNPPxbwMhhQZhw6IlKZI%2BOKPjBEwbj1%2F3zNg3IsDe06A0bV6yNO3iqkjJvVcKlgYvNZc9RpmXVWz0l2Vn1uvX66Y7IvXf3IgVHvdrlzVi%2B5VzVVuZ528syan%2F6Jmu1ezuRS%2ByeVXAabDxFKTy3%2BJEscJGZXv3zNk6r7%2FKAwzJ4MxPf4LCT2b5lm9xGwU1DLdSnejrXqjes%2B0UrwgBeyWMFoXB%2BbkL4t39Yq8KCu9lB2uum50hgJV%2FfXFJPVlkmYn8WJUmOnOJM2b3N7LBuoYAKLyWXoGSIvM9gUqI4CKKlOpgkp3xRjyLe3DdEzKz4XuxxY9k4c2yb%2BK507fM2m37pmUkc1Yeibnzrmw9S3scduyR6aER8Me9wOwR1bxHGfPbGzSM%2FsI7NHOlj3zIdmjvYA9A9gsmeI8zlZrXErR0Ebz8oYupW5%2BtuwxPgB75q2V4shcCkMzP4DNmrdWbiNzyA1ZYfCupcdpLT2jU26DhsF9sed8pecjhLOyyvDsHHJD%2BwjhrHuu4ayhDRrO9uW5na1ye%2BaXK9u%2BkFE3ml6cWuy2LP6i%2B5n%2F6kn154nc%2Bm6%2Bq9rNf0UDCj%2BMKRA1P%2FeZfyv%2FnnoYZvwf
+
+## User Stories 
+
+User Types:
+
+**Aloe** is looking for a comfortable t-shirt for a small price.
+**Azul** is a high-class customer who is looking for the best product that is tailored to him, or a premium model. 
+**Rock Steady Clothing Company** is a high fashion screen printing company that designs t-shirts with their own graphic designs. 
+**Pablo** is a customer who likes variety and wishes to have options like color, size of sleeves, or size of t-shirt.
+
+<User_type> People who enjoy both simple and comfortable clothing styles. This includes the average blue-collar worker to the fashionista of the fashion community.   
+<Action> The site will provide plain colored t-shirts with multiple options like color, size, length of t-shirt and sleeves, and for an extra cost, it will offer a hand-crafted plain t-shirt that customers can fully customize. This t-shirt will be guaranteed to have a nearly perfect fit. 
+<Goal> The goal is to provide a fashionable plain t-shirt to the fashion community, while also providing comfort for everyday use of the average person.
+
+As Aloe 
+I want to find a plain white t-shirt for a low price that will last; it is for everyday use. 
+I want to be comfortable as I weld for the welding company. 
+
+As Azul 
+My life revolves around my social status.
+Plain t-shirts provide a simple way to style myself daily, but all that can get ruined if the shirt looks cheap.   
+
+At Rock Steady Clothing Company
+The t-shirts are going to be used for screen printing. Large orders are going to be needed. 
+Furthermore, the company will require options for shirts that can be utilized for experimentations.  
+
+As Pablo 
+I hand pick clothes for high-end clients daily, and I need a variety of styles for innovation.  
+
+## Three things I wanted to add
+
+I would like to add prices to each selection, and I would also like for it to be calculated on the checkout page. 
+I would also like to an option for sweatshirts.
+I believe adding an image that changes depending on the options chosen would be a great idea. 
+
